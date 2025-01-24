@@ -1,0 +1,198 @@
+export const users = [
+  {
+    name: "John Doe",
+    age: 30,
+    location: "New York, USA",
+    gender: "Male",
+    position: "Software Engineer",
+    salary: 85000,
+  },
+  {
+    name: "Jane Smith",
+    age: 28,
+    location: "London, UK",
+    gender: "Female",
+    position: "Data Scientist",
+    salary: 95000,
+  },
+  {
+    name: "Alice Johnson",
+    age: 35,
+    location: "Toronto, Canada",
+    gender: "Female",
+    position: "Project Manager",
+    salary: 120000,
+  },
+  {
+    name: "Bob Brown",
+    age: 40,
+    location: "Sydney, Australia",
+    gender: "Male",
+    position: "HR Manager",
+    salary: 80000,
+  },
+  {
+    name: "Emily Davis",
+    age: 25,
+    location: "Berlin, Germany",
+    gender: "Female",
+    position: "UX Designer",
+    salary: 75000,
+  },
+  {
+    name: "Michael Wilson",
+    age: 45,
+    location: "San Francisco, USA",
+    gender: "Male",
+    position: "CTO",
+    salary: 200000,
+  },
+  {
+    name: "Sophia Martinez",
+    age: 32,
+    location: "Madrid, Spain",
+    gender: "Female",
+    position: "Marketing Specialist",
+    salary: 60000,
+  },
+  {
+    name: "David Lee",
+    age: 29,
+    location: "Seoul, South Korea",
+    gender: "Male",
+    position: "Full-Stack Developer",
+    salary: 90000,
+  },
+  {
+    name: "Olivia Clark",
+    age: 37,
+    location: "Paris, France",
+    gender: "Female",
+    position: "Content Strategist",
+    salary: 70000,
+  },
+  {
+    name: "Ethan Taylor",
+    age: 33,
+    location: "Dubai, UAE",
+    gender: "Male",
+    position: "Finance Analyst",
+    salary: 85000,
+  },
+];
+
+export const products = [
+  {
+    productName: "Laptop",
+    productID: "101",
+    price: 1200,
+    inStock: true,
+  },
+  {
+    productName: "Smartphone",
+    productID: "102",
+    price: 800,
+    inStock: false,
+  },
+  {
+    productName: "Tablet",
+    productID: "103",
+    price: 500,
+    inStock: true,
+  },
+  {
+    productName: "Wireless Headphones",
+    productID: "104",
+    price: 150,
+    inStock: true,
+  },
+  {
+    productName: "Smartwatch",
+    productID: "105",
+    price: 300,
+    inStock: false,
+  },
+  {
+    productName: "Gaming Console",
+    productID: "106",
+    price: 400,
+    inStock: true,
+  },
+  {
+    productName: "Bluetooth Speaker",
+    productID: "107",
+    price: 100,
+    inStock: true,
+  },
+  {
+    productName: "External Hard Drive",
+    productID: "108",
+    price: 120,
+    inStock: false,
+  },
+  {
+    productName: "Mechanical Keyboard",
+    productID: "109",
+    price: 80,
+    inStock: true,
+  },
+  {
+    productName: "4K Monitor",
+    productID: "110",
+    price: 300,
+    inStock: false,
+  },
+];
+
+export const students = [
+  {
+    studentName: "Alice Johnson",
+    grade: "A",
+    subjects: ["Math", "Science", "History"],
+  },
+  {
+    studentName: "Bob Brown",
+    grade: "B",
+    subjects: ["English", "Geography", "Physics"],
+  },
+  {
+    studentName: "Charlie Adams",
+    grade: "A+",
+    subjects: ["Computer Science", "Math", "Physics"],
+  },
+  {
+    studentName: "Diana Evans",
+    grade: "C",
+    subjects: ["Art", "Music", "Drama"],
+  },
+  {
+    studentName: "Ethan Miller",
+    grade: "B+",
+    subjects: ["Biology", "Chemistry", "Math"],
+  },
+  {
+    studentName: "Fiona Taylor",
+    grade: "A",
+    subjects: ["History", "English", "Political Science"],
+  },
+  {
+    studentName: "George Clark",
+    grade: "B",
+    subjects: ["Physical Education", "Health Science", "Geography"],
+  },
+  {
+    studentName: "Hannah Wilson",
+    grade: "A-",
+    subjects: ["Economics", "Statistics", "Math"],
+  },
+  {
+    studentName: "Isabella Martinez",
+    grade: "B+",
+    subjects: ["French", "Spanish", "Linguistics"],
+  },
+  {
+    studentName: "Jack Lee",
+    grade: "A+",
+    subjects: ["Robotics", "Artificial Intelligence", "Programming"],
+  },
+];

@@ -1,0 +1,10 @@
+/* Product.css */
+.card {
+  display: flex;
+  flex-direction: column;
+  height: 100%; /* Ensure card stretches to fill container */
+}
+
+.card-body {
+  flex-grow: 1; /* Allows card body to expand and fill available space */
+}
