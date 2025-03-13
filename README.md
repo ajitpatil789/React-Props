@@ -85,6 +85,3 @@ export default UserProfile;
 Props help make React components more dynamic and reusable by passing data between components. Using default values and prop type validation ensures reliability and flexibility.
 
 ---
-
-Let me know if you need modifications! 🚀
-
